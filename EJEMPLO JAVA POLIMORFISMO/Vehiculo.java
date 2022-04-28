@@ -3,7 +3,7 @@ public class Vehiculo {
     protected String color;
     protected int anio;
     protected int nLLantas;
-
+    //CONSTRUCTOR
     public Vehiculo(String marca, String color, int anio, int nLLantas){
         this.marca = marca;
         this.color = color;
