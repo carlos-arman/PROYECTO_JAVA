@@ -15,7 +15,7 @@ public class vehiculoElectrico extends Vehiculo{
 
     @Override
     public String mostrarDatos() {
-        // TODO Auto-generated method stub
+        // TODO Auto-generated method stub 
 
         return "Marca: "+marca +"\nColor: "+color +"\nAño: "+ anio +"\nnumero LLantas: "+nLLantas +
         "\nHoras de carga: " +HCargar;
