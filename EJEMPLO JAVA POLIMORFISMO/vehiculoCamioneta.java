@@ -9,6 +9,7 @@ public class vehiculoCamioneta extends Vehiculo{
     public void setnPuertas(int nPuertas) {
         this.nPuertas = nPuertas;
     }
+    //METODO
     @Override
     public String mostrarDatos() {
         // TODO Auto-generated method stub
